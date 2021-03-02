@@ -6,7 +6,6 @@ D3 Dabbler
 - Included state abbreviations in the circles,
 - Created and situated axes and labels to the left and bottom of the chart.
 
-
 Interactive graphic D3 
 - Include more demographics and more risk factors, added labels in scatter plot and give them click events so that your users can decide which data to display. Animated the transitions for your circles' locations as well as the range of your axes. Done this for two risk factors for each axis.
 
